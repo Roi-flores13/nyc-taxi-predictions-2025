@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Roi_f/pcd/nyc-taxi-predictions-2025/experiments/mlruns/0/241b5de6bb0f4769bdc461b3470735b5/artifacts
+end_time: 1761790771831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 241b5de6bb0f4769bdc461b3470735b5
+run_name: awesome-perch-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761790740542
+status: 3
+tags: []
+user_id: Roi_f

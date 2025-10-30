@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Roi_f/pcd/nyc-taxi-predictions-2025/experiments/mlruns/0/models/m-8c547cf8e50e44c08b38e1f4c55d13d9/artifacts
+creation_timestamp: 1761795480514
+experiment_id: '0'
+last_updated_timestamp: 1761795487430
+model_id: m-8c547cf8e50e44c08b38e1f4c55d13d9
+model_type: null
+name: model
+source_run_id: f765bc6466e34206bf0bc27aac797ced
+status: 2
+status_message: null
