@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Roi_f/pcd/nyc-taxi-predictions-2025/experiments/mlruns/0/2140df145f9a446dadd177fe53f80320/artifacts
+end_time: 1761791036130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2140df145f9a446dadd177fe53f80320
+run_name: bedecked-whale-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761791016048
+status: 3
+tags: []
+user_id: Roi_f

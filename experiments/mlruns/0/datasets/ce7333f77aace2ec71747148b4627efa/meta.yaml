@@ -1,0 +1,9 @@
+digest: 7dec41a4
+name: dataset
+profile: '{"features_shape": [44218, 4159], "features_size": 183902662, "features_nbytes":
+  1471221296}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 4159]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "Roi_f", "mlflow.source.name": "c:\\Users\\Roi_f\\PCD\\nyc-taxi-predictions-2025\\.venv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
