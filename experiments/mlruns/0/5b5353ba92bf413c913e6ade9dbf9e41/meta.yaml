@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Roi_f/pcd/nyc-taxi-predictions-2025/experiments/mlruns/0/5b5353ba92bf413c913e6ade9dbf9e41/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b5353ba92bf413c913e6ade9dbf9e41
+run_name: Random Forest Regressor/Optima
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761793658720
+status: 1
+tags: []
+user_id: Roi_f

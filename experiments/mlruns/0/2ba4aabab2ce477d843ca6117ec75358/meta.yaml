@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Roi_f/pcd/nyc-taxi-predictions-2025/experiments/mlruns/0/2ba4aabab2ce477d843ca6117ec75358/artifacts
+end_time: 1761277633645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ba4aabab2ce477d843ca6117ec75358
+run_name: XGBoost Hyperparameter Optimization (Optuna) HW
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761277633438
+status: 4
+tags: []
+user_id: Roi_f
